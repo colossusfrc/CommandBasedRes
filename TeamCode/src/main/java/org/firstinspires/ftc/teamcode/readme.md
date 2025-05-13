@@ -4,10 +4,10 @@ O projeto tem, como objetivo, representar um sistema baseado em comandos e subsi
 para controlar mum robô de FTC (em qualquer natureza de opmode).
 O projeto conta com algumas pastas voltadas para a organização dos sistemas e outras utilitárias,
 sendo elas:
-    1. ufpackages
-    2. subsystems
-    3. commands
-    4. rc
+1. ufPackages
+2. subsystems
+3. commands
+4. rc
 
 ## 1 Explicação de cada pacote:
 ### 1.1 - ufpackages
